@@ -31,7 +31,7 @@ Experiment-6 - Select with various clause-Between,in,Aggregate function
 ![image](https://user-images.githubusercontent.com/114389272/192611060-77e5f00c-83f7-40d0-8a86-c359b5a5f626.png)
 
 Experiment-7 - Select with various clause-Group by,Having,Order by
-[Experiment 7 queries]()
+[Experiment 7 queries](https://github.com/Saikumar7153/Saikumar-DBMS/blob/main/Experiment%207)
 ![image](https://user-images.githubusercontent.com/114389272/192611370-1f12563c-13a3-4086-9435-53a760f684de.png)
 ![image](https://user-images.githubusercontent.com/114389272/192611455-d3639a72-88dc-45a3-b89e-54e341c27bd5.png)
 
