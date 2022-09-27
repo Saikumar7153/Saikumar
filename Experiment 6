@@ -1,33 +1,67 @@
-mysql> select *from w.course where course_type="s";
-+-----------+--------------+-------------+--------+---------+--------+
-| course_no | course_descr | course_type | sem_no | hall_no | fac_no |
-+-----------+--------------+-------------+--------+---------+--------+
-|         2 | bio          | s           |      2 |    NULL |   4777 |
-|        11 | sci          | s           |      2 |    NULL |   4878 |
-|        21 | sci          | s           |      2 |    NULL |   4118 |
-+-----------+--------------+-------------+--------+---------+--------+
-3 rows in set (0.00 sec)
+mysql> SELECT * FROM course;
++----------+------------+-------------+--------+
+| CourseNo | RegisterNo | CourseDesc  | Scores |
++----------+------------+-------------+--------+
+| C001     |  191811306 | Mathematics |     93 |
+| C001     |  191811307 | Mathematics |     80 |
+| C002     |  191811306 | OOAD        |     75 |
+| C002     |  191811307 | OOAD        |     85 |
+| C003     |  191811306 | DBMS        |     91 |
+| C003     |  191811307 | DBMS        |     93 |
++----------+------------+-------------+--------+
+6 rows in set (0.00 sec)
 
-mysql> select *from w.course where course_type="p";
-+-----------+--------------+-------------+--------+---------+--------+
-| course_no | course_descr | course_type | sem_no | hall_no | fac_no |
-+-----------+--------------+-------------+--------+---------+--------+
-|         1 | bio          | p           |      3 |     243 |   4313 |
-|         6 | hum          | p           |      3 |     445 |   4645 |
-|         7 | sci          | p           |      4 |     246 |   4343 |
-|         9 | hum          | p           |      4 |     475 |   4345 |
-+-----------+--------------+-------------+--------+---------+--------+
-4 rows in set (0.00 sec)
-mysql> select course_no,course_descr,tot_reg from w.course;
-+-----------+--------------+---------+
-| course_no | course_descr | tot_reg |
-+-----------+--------------+---------+
-|         1 | bio          |       2 |
-|         2 | bio          |       1 |
-|         6 | hum          |       2 |
-|         7 | sci          |    NULL |
-|         9 | hum          |       2 |
-|        11 | sci          |    NULL |
-|        21 | sci          |       1 |
-+-----------+--------------+---------+
-7 rows in set (0.00 sec)
+
+mysql> SELECT CourseNo FROM Course WHERE Scores BETWEEN 50 AND 80;
++----------+
+| CourseNo |
++----------+
+| C001     |
+| C002     |
++----------+
+2 rows in set (0.00 sec)
+
+
+mysql> SELECT AVG(Scores) FROM Course;
++-------------+
+| AVG(Scores) |
++-------------+
+|     86.1667 |
++-------------+
+1 row in set (0.03 sec)
+
+
+mysql> SELECT MAX(Scores) , MIN(Scores) FROM Course;
++-------------+-------------+
+| MAX(Scores) | MIN(Scores) |
++-------------+-------------+
+|          93 |          75 |
++-------------+-------------+
+1 row in set (0.01 sec)
+
+
+mysql> SELECT MAX(Scores) , MIN(Scores) , AVG(Scores) FROM Course;
++-------------+-------------+-------------+
+| MAX(Scores) | MIN(Scores) | AVG(Scores) |
++-------------+-------------+-------------+
+|          93 |          75 |     86.1667 |
++-------------+-------------+-------------+
+1 row in set (0.00 sec)
+
+
+mysql> SELECT AVG(Scores) FROM Course WHERE CourseNo LIKE 'C001';
++-------------+
+| AVG(Scores) |
++-------------+
+|     86.5000 |
++-------------+
+1 row in set (0.02 sec)
+
+
+mysql> SELECT SUM(Scores) FROM Course;
++-------------+
+| SUM(Scores) |
++-------------+
+|         517 |
++-------------+
+1 row in set (0.00 sec)
