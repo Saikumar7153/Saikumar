@@ -13,7 +13,10 @@ Experiment-3 - DML Commands-insert,select
 ![image](https://user-images.githubusercontent.com/114389272/192609533-b873f7f8-ee99-42df-9dd4-beab77ac85ef.png)
 
 Experiment-4 - DML Comands-update,delete
-[Experiment 4 queries]()
+[Experiment 4 queries](https://github.com/Saikumar7153/Saikumar-DBMS/blob/main/Experiment%204)
+![image](https://user-images.githubusercontent.com/114389272/192609796-a509679f-0324-4cd9-a2d7-a9ffb1765c7b.png)
+
 Experiment-5 - Select with various clause-Where Pattern Matching
+[Experimennt 5 queries]()
 Experiment-6 - Select with various clause-Between,in,Aggregate function
 Experiment-7 - Select with various clause-Group by,Having,Order by
