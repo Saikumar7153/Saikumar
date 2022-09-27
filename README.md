@@ -17,6 +17,11 @@ Experiment-4 - DML Comands-update,delete
 ![image](https://user-images.githubusercontent.com/114389272/192609796-a509679f-0324-4cd9-a2d7-a9ffb1765c7b.png)
 
 Experiment-5 - Select with various clause-Where Pattern Matching
-[Experimennt 5 queries]()
+[Experimennt 5 queries](https://github.com/Saikumar7153/Saikumar-DBMS/blob/main/Experiment%205)
+![image](https://user-images.githubusercontent.com/114389272/192610354-ca2d746e-250f-4ed1-ace6-b0a1d3dd277b.png)
+![image](https://user-images.githubusercontent.com/114389272/192610428-3b48ca7d-ea74-4940-91db-b9a741239ab3.png)
+![image](https://user-images.githubusercontent.com/114389272/192610505-e6423481-55ab-4429-acce-8a68cb8619e1.png)
+
 Experiment-6 - Select with various clause-Between,in,Aggregate function
+[Experiment 6 queries]()
 Experiment-7 - Select with various clause-Group by,Having,Order by
