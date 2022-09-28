@@ -38,5 +38,10 @@ Experiment-8 - Subquery and Correlated query
 [Experiment 8 quries](https://github.com/Saikumar7153/Saikumar-DBMS/blob/main/Experiment%208)
 ![image](https://user-images.githubusercontent.com/114389272/192831894-3b9e0eed-df97-484e-a721-f419c9f17822.png)
 
+Experiment-9 -joins-Equation,Innerjoin,Outerjoin
+[Experiment 9 quiries](https://github.com/Saikumar7153/Saikumar-DBMS/blob/main/Experiment%209)
+![image](https://user-images.githubusercontent.com/114389272/192832579-4b7d05ba-9b9b-4cec-abde-3027a2a331b0.png)
+
+
 
 
