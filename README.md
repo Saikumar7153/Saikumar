@@ -48,6 +48,11 @@ Experiment-10 -View,Index,Sequence
 ![image](https://user-images.githubusercontent.com/114389272/192833649-037ee9be-3aff-4219-b877-f8ab78e84677.png)
 ![image](https://user-images.githubusercontent.com/114389272/192833728-bed1781e-3174-4a34-8f2c-e88c68af52dd.png)
 
+Experiment-11 -Simple Programming exercises using Case,if,iterate,leave,loop
+[Experiment 11 Queries](https://github.com/Saikumar7153/Saikumar-DBMS/blob/main/Experiment%2011)
+![image](https://user-images.githubusercontent.com/114389272/192834475-764c2ae1-56cb-4be3-b22e-dc8ad2b7ec15.png)
+
+
 
 
 
