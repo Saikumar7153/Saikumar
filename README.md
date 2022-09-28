@@ -36,5 +36,7 @@ Experiment-7 - Select with various clause-Group by,Having,Order by
 
 Experiment-8 - Subquery and Correlated query
 [Experiment 8 quries](https://github.com/Saikumar7153/Saikumar-DBMS/blob/main/Experiment%208)
+![image](https://user-images.githubusercontent.com/114389272/192831894-3b9e0eed-df97-484e-a721-f419c9f17822.png)
+
 
 
