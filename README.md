@@ -35,12 +35,20 @@ Experiment-7 - Select with various clause-Group by,Having,Order by
 ![image](https://user-images.githubusercontent.com/114389272/192611370-1f12563c-13a3-4086-9435-53a760f684de.png)
 
 Experiment-8 - Subquery and Correlated query
-[Experiment 8 quries](https://github.com/Saikumar7153/Saikumar-DBMS/blob/main/Experiment%208)
+[Experiment 8 queries](https://github.com/Saikumar7153/Saikumar-DBMS/blob/main/Experiment%208)
 ![image](https://user-images.githubusercontent.com/114389272/192831894-3b9e0eed-df97-484e-a721-f419c9f17822.png)
 
 Experiment-9 -joins-Equation,Innerjoin,Outerjoin
-[Experiment 9 quiries](https://github.com/Saikumar7153/Saikumar-DBMS/blob/main/Experiment%209)
+[Experiment 9 queries](https://github.com/Saikumar7153/Saikumar-DBMS/blob/main/Experiment%209)
 ![image](https://user-images.githubusercontent.com/114389272/192832579-4b7d05ba-9b9b-4cec-abde-3027a2a331b0.png)
+
+Experiment-10 -View,Index,Sequence
+[Experiment 10 queries](https://github.com/Saikumar7153/Saikumar-DBMS/blob/main/Experiment%2010)
+![image](https://user-images.githubusercontent.com/114389272/192833531-45d7acdd-a584-4656-bbd0-54f405889f9b.png)
+![image](https://user-images.githubusercontent.com/114389272/192833649-037ee9be-3aff-4219-b877-f8ab78e84677.png)
+![image](https://user-images.githubusercontent.com/114389272/192833728-bed1781e-3174-4a34-8f2c-e88c68af52dd.png)
+
+
 
 
 
