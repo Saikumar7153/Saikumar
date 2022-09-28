@@ -52,6 +52,12 @@ Experiment-11 -Simple Programming exercises using Case,if,iterate,leave,loop
 [Experiment 11 Queries](https://github.com/Saikumar7153/Saikumar-DBMS/blob/main/Experiment%2011)
 ![image](https://user-images.githubusercontent.com/114389272/192834475-764c2ae1-56cb-4be3-b22e-dc8ad2b7ec15.png)
 
+Experiment-12 - Simple Programming Exercises using Repeat,While
+[Experiment 12 Queries](https://github.com/Saikumar7153/Saikumar-DBMS/blob/main/Experiment%2012)
+![image](https://user-images.githubusercontent.com/114389272/192835438-486e5a09-78c0-4c6c-9394-0704082a3a39.png)
+![image](https://user-images.githubusercontent.com/114389272/192835606-4ca0eba0-2ea8-4c93-8d78-9b70782cb829.png)
+
+
 
 
 
