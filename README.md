@@ -62,6 +62,12 @@ Experiment-13 - TCL Commands-Commit,Rollback,Savepoint
 ![image](https://user-images.githubusercontent.com/114389272/192836837-ae9a6652-c128-4b0a-8b47-0dfb259d18a6.png)
 ![image](https://user-images.githubusercontent.com/114389272/192837132-ece55d65-ebee-4bd2-a8ff-464ec0ad4d98.png)
 
+Experiment-14 -DCL Commands-Grant,Revoke
+[Experiment 14 Queries](https://github.com/Saikumar7153/Saikumar-DBMS/blob/main/Experiment%2014)
+![image](https://user-images.githubusercontent.com/114389272/192838059-8f0ec152-bb08-43f3-aba9-5e98940acaf4.png)
+![image](https://user-images.githubusercontent.com/114389272/192838178-eb98ce7a-172a-46d2-9b13-12efbb1404c4.png)
+
+
 
 
 
